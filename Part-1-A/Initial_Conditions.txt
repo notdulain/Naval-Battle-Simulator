@@ -1,0 +1,17 @@
+Battlefield Dimensions: 20 x 20
+
+Battleship:
+Type   Initial Position   Maximum Velocity 
+r      (9, 9)             6                
+
+Escort Ships:
+Type   ID   Position   Min V   Max V   Min θ  Max θ 
+E_C    1    (19, 9)    1       2.00    5       30     
+E_B    2    (18, 11)   2       1.00    13      43     
+E_C    3    (7, 2)     1       2.00    5       30     
+E_D    4    (2, 15)    3       3.00    6       56     
+E_D    5    (1, 15)    3       3.00    6       56     
+E_E    6    (18, 8)    2       5.00    7       77     
+E_B    7    (19, 15)   2       1.00    13      43     
+E_D    8    (18, 14)   3       3.00    6       56     
+E_C    9    (11, 12)   1       2.00    5       30     

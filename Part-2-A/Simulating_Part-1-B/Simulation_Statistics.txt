@@ -1,0 +1,12 @@
+Run #1
+Battleship does not get hit in this simulation
+Battleship's Gunfire Time: 1.03s
+Initial position: (7, 7)
+B ship's gun got jammed in point:4
+B travelled to all 5 points
+3 Escort Ships got hit
+Details of all the Escort Ships that got hit:
+Type   ID   Position   Min V   Max V   Min θ  Max θ 
+E_A    1    (8, 13)    1       8.40    6       26     
+E_A    3    (4, 13)    1       8.40    6       26     
+E_D    2    (7, 4)     2       6.00    9       59     

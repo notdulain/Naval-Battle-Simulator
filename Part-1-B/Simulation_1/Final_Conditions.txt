@@ -1,0 +1,3 @@
+Battleship was not attacked in this simulation
+0 Escort Ships got hit
+12 Escort Ships survived

@@ -1,0 +1,22 @@
+Battlefield Dimensions: 20 x 20
+
+Battleship:
+Type   Initial Position   Maximum Velocity  Gunfire Time
+s      (7, 7)             7                 1.03s
+
+The number of points the Battleship is supposed move: 5
+
+Escort Ships:
+Type   ID   Position   Min V   Max V   Min θ  Max θ 
+E_A    1    (8, 13)    1       8.40    6       26     
+E_A    11   (14, 14)   1       8.40    6       26     
+E_A    3    (4, 13)    1       8.40    6       26     
+E_A    4    (17, 15)   1       8.40    6       26     
+E_A    5    (13, 5)    1       8.40    6       26     
+E_A    10   (19, 15)   1       8.40    6       26     
+E_A    7    (10, 18)   1       8.40    6       26     
+E_A    12   (14, 12)   1       8.40    6       26     
+E_E    6    (17, 5)    1       6.00    8       78     
+E_D    2    (7, 4)     2       6.00    9       59     
+E_D    9    (18, 18)   2       6.00    9       59     
+E_E    8    (19, 10)   1       6.00    8       78     

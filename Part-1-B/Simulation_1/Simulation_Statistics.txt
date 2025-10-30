@@ -1,0 +1,6 @@
+Run #1
+Battleship does not get hit in this simulation
+Initial position: (5, 8)
+B travelled to all 6 points
+0 Escort Ships got hit
+

@@ -1,0 +1,14 @@
+Run #1
+Battleship gets hit in this simulation
+ID:6 Escort Ship hit the Battleship
+3 Escort Ships were inside Battleship's range
+Details of all the Escort Ships that got hit:
+Type   ID   Position   Min V   Max V   Min θ  Max θ 
+E_E    1    (8, 9)     3       6.00    7       77     
+E_A    4    (5, 11)    2       8.40    9       29     
+E_A    6    (6, 8)     2       8.40    9       29     
+
+Run #2
+Battleship does not get hit in this simulation
+0 Escort Ships were inside Battleship's range
+
